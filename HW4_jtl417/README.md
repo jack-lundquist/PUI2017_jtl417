@@ -9,6 +9,6 @@ For assignment 2 I worked with Juan and Prince. Here is the table:
   |Logistic Regression|Critical level of scalar stress, where the presence of colony fissioning is considered expression of not critical vs. critical level| Binary, where (1 = above the level, 0 = below the level)|Community size (as number of members in the community)|Categorical (could be seen as continuous)|Not identified|Not identified|Does the population amount of a community signifficantly affects the probabilty of having higher levels of scalar stress?|for every population level Pi the probablity of having a Critical Stress Level is the same|0.05|http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0091510|
 
 
-For assignment 3 I talked a bit with Prince about how to do the chi-squared test, and he showed me a working formula.
+For assignment 3 I talked a bit with Prince about how to do the chi-squared test.
 
-For assignment 4 
+For assignment 4 I worked with Prince, Christian, Sarah, Matt and Andrew. We shared ideas about filtering for daytime/night-time and for determining manhattan vs. brooklyn. We also discussed what the results of our tests meant.
