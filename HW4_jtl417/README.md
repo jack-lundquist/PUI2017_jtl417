@@ -8,7 +8,7 @@ For assignment 2 I worked with Juan and Prince. Here is the table:
   |Multiple Regression|Death Rate|Continuous|Body Shape Index (ABSI), Diabetes, Blood Pressure, Smoking, Serum Cholesterol, Sex, Age, Ethnicity|Continuous and binary variables|Body Mass Index (BMI) |Continuous|Is the Body Shape Index (ABSI) better for predicting premature death than the Body Mass Index (BMI)?|The difference between the actual amount of deaths and the prediction using ABSI = the difference between the amount of real deaths and those predicted using BMI |0.05|http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0039504|
   |Logistic Regression|Critical level of scalar stress, where the presence of colony fissioning is considered expression of not critical vs. critical level| Binary, where (1 = above the level, 0 = below the level)|Community size (as number of members in the community)|Categorical (could be seen as continuous)|Not identified|Not identified|Does the population amount of a community signifficantly affects the probabilty of having higher levels of scalar stress?|for every population level Pi the probablity of having a Critical Stress Level is the same|0.05|http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0091510|
 
-## FBB very good (Notice they actually use MANOVA in the first paper)
+## FBB very good (Notice they actually use MANOVA and ANOVA)
 
 For assignment 3 I talked a bit with Prince about how to do the chi-squared test.
 
