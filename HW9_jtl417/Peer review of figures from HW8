@@ -1,0 +1,16 @@
+Comments for Dana's graph (https://github.com/danachermesh/PUI2017_dcr346/tree/master/HW8_dcr346):
+
+Overall, I think this graphic is really great. The color scheme is nice, the figure is the proper size, all the labels and legends and axes are super clear (I really like the slanted borough labels and the general "Borough" label!). Your description and interpretation paragraph is detailed, interesting and clear. It helped point me to some interesting insights in the graph I wouldn't have seen at first glance! One think I would consider is how the permit axis is or is not normalized - in most instances it makes sense to normalize data disaggregated spatially by area or maybe even population, but then again I think in this instance it may make sense to have it be displayed as the sum total. Great job overall!
+
+
+Comments for Zhiao's graph (https://github.com/zhiaozhou/PUI2017_zz1749/tree/master/HW8_zz1749):
+
+First of all, great plot! The linear relationship clearly comes across, the figure size is nice, the axes are clearly labeled with units and it does not seem cluttered at all. I have 3 pieces of feedback that I think would help make the plot even better than it already is:
+
+1. The red / blue color scheme can be a hard to distinguish between in some color-blind schemas, although the line vs. point shape distinction still allows the line and the scatter-plot to come out as different.
+
+2. Even though the plot clearly communicates the linear relationship between EUI and GHGe, a caption explaining it in more detail would help. Furthermore, including the fact that buildings being examined are residential in the title would help clarify things, even if it is clear based on your title in the readme.
+
+3. Is the bottom left corner the 0 point for both axes? It looks like it cuts off a bit earlier than 0 for the y-axis, which is a little confusing.
+
+Overall, though, great job! The figure was very simple, clear and communicated the analytic insight easily.
