@@ -14,3 +14,24 @@ First of all, great plot! The linear relationship clearly comes across, the figu
 3. Is the bottom left corner the 0 point for both axes? It looks like it cuts off a bit earlier than 0 for the y-axis, which is a little confusing.
 
 Overall, though, great job! The figure was very simple, clear and communicated the analytic insight easily.
+
+# FBB I aksed explicitly to 
+
+1) deliver each review as a markdown file - your file has no extension and both reviews are in a file. In fact you could not upload it as is to your classmate repo
+
+2) include the plots in your markdown
+
+3) comment specifically on three metrics: esthetic, clarity, and honesty
+
+- its disappointing to lose points for such a silly thing: read hte instructions carefully!
+
+
+dcr plot: Alternation should be Alteration in the legend
+the choice of colors, two tones od red and a yellow puts the yellow bar in a secondary position because the color is less vivid. Unless that is desired this is a bad esthetic choice
+rather than alphabetical sorting sorting by total number of permits would add information
+
+zz plot
+Indeed color blind not compliant, also labels far too small to be read. Legend over data
+
+
+10/20
